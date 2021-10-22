@@ -5,6 +5,7 @@
 AN END-TO-END CHINESE TEXT NORMALIZATION MODEL BASED ON RULE-GUIDED FLAT-LATTICE TRANSFORMER
 # Dataset download:
 Chinese Text Normalization Dataset can be available at https://www.data-baker.com/en/#/data/index/TNtts.
+
 To browse the Chinese version of the download page, please click https://www.data-baker.com/data/index/TNtts.
 
 
