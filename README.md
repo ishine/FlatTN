@@ -2,9 +2,11 @@
 [中文](#运行环境)
 
 # AN END-TO-END CHINESE TEXT NORMALIZATION MODEL BASED ON RULE-GUIDED FLAT-LATTICE TRANSFORMER
-Chinese Text Normalization Dataset can be available at https://www.data-baker.com/en/#/data/index/TNtts
-```
-Chinese page is https://www.data-baker.com/data/index/TNtts
+Chinese Text Normalization Dataset can be available at https://www.data-baker.com/en/#/data/index/TNtts.
+
+
+Chinese page is https://www.data-baker.com/data/index/TNtts.
+
 
 
 # Requirement:
