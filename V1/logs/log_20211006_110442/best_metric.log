@@ -1,0 +1,15 @@
+{"metric": {"SpanFPreRecMetric": {"f": 0.971215, "pre": 0.96735, "rec": 0.975111}, "label_acc": {"acc": 0.963862}, "step": 2397, "epoch": 1}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.971133, "pre": 0.967419, "rec": 0.974875}, "label_acc": {"acc": 0.963753}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.980933, "pre": 0.979808, "rec": 0.98206}, "label_acc": {"acc": 0.975013}, "step": 4794, "epoch": 2}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.981294, "pre": 0.979955, "rec": 0.982637}, "label_acc": {"acc": 0.975971}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.984759, "pre": 0.984546, "rec": 0.984973}, "label_acc": {"acc": 0.978733}, "step": 7191, "epoch": 3}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.98507, "pre": 0.984838, "rec": 0.985302}, "label_acc": {"acc": 0.979644}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.98626, "pre": 0.986268, "rec": 0.986252}, "label_acc": {"acc": 0.980178}, "step": 9588, "epoch": 4}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.986399, "pre": 0.986403, "rec": 0.986396}, "label_acc": {"acc": 0.980958}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.9877, "pre": 0.988106, "rec": 0.987295}, "label_acc": {"acc": 0.982439}, "step": 11985, "epoch": 5}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.987526, "pre": 0.988004, "rec": 0.987048}, "label_acc": {"acc": 0.982444}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.988773, "pre": 0.989336, "rec": 0.988211}, "label_acc": {"acc": 0.983545}, "step": 14382, "epoch": 6}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.988543, "pre": 0.989181, "rec": 0.987905}, "label_acc": {"acc": 0.983737}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.988953, "pre": 0.989688, "rec": 0.988219}, "label_acc": {"acc": 0.983566}, "step": 16779, "epoch": 7}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.988966, "pre": 0.989784, "rec": 0.988149}, "label_acc": {"acc": 0.983895}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.989168, "pre": 0.989692, "rec": 0.988645}, "label_acc": {"acc": 0.983925}, "step": 19176, "epoch": 8}}

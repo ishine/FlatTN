@@ -1,0 +1,4 @@
+{"metric": {"SpanFPreRecMetric": {"f": 0.763569, "pre": 0.716296, "rec": 0.817524}, "label_acc": {"acc": 0.717011}, "step": 100, "epoch": 1}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.762794, "pre": 0.715345, "rec": 0.816984}, "label_acc": {"acc": 0.716076}}}}
+{"metric": {"SpanFPreRecMetric": {"f": 0.883454, "pre": 0.872966, "rec": 0.894197}, "label_acc": {"acc": 0.840243}, "step": 200, "epoch": 1}}
+{"metric": {"data_test": {"SpanFPreRecMetric": {"f": 0.882016, "pre": 0.870973, "rec": 0.893342}, "label_acc": {"acc": 0.839216}}}}

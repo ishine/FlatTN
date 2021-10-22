@@ -1,0 +1,1 @@
+Step:2397	{"metric": {"SpanFPreRecMetric": {"f": 0.984114, "pre": 0.982823, "rec": 0.985408}, "label_acc": {"acc": 0.978968}, "step": 2397, "epoch": 1}, "step": 2397, "epoch": 1}
