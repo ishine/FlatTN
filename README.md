@@ -47,7 +47,7 @@ python /dataset/cleaned_dataset_by_myself/sep_data.py
 
 
 # Training
-Our code are in version V1, To run training code:
+Our code are in version V1, run training code:
 ```
 python /V1/flat_main.py --dataset databaker
 ```
