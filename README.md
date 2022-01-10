@@ -20,18 +20,25 @@ To browse the Chinese version of the download page, please click https://www.dat
 
 #Data preprocessing
 
-The raw dataset in jsonl format are saved at : dataset/cleaned_dataset_by_myself/CN_TN_epoch-01-28645_2.jsonl
+The raw dataset in jsonl format are saved at : 
+```
+dataset/cleaned_dataset_by_myself/CN_TN_epoch-01-28645_2.jsonl
+```
 
-Preprocessed data are saved at : dataset/cleaned_dataset_by_myself/shuffled_BMES
+Preprocessed data are saved at : 
+`dataset/cleaned_dataset_by_myself/shuffled_BMES`
 
-We divided data into train 、dev 、test.
+We divided data into `train` 、`dev` 、`test` by 8:1:1.
 
 #Training
-To train the model:
+Our code are in version V1, To run training code:
 ```
-/V1/flat_main.py
+cd V1
+python flat_main.py --dataset databaker
 ```
-Our proposed rule base are saved in a python file: /V1/add_rule.py
+Our proposed rule base are saved in a python file: 
+`/V1/add_rule.py`
+
 
 
 
