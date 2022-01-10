@@ -40,14 +40,14 @@ You can also run our code to prepocess and divide the raw dataset again
 python /dataset/cleaned_dataset_by_myself/get_json.py
 ```
 
-You can run the following shell to see the number of all NSW categories 
+You can run the following code to see the number of all NSW categories 
 ```
 python /dataset/cleaned_dataset_by_myself/sep_data.py
 ```
 
 
 # Training
-Our code are in version V1, run training code:
+Our code are in version V1, run training code
 ```
 python /V1/flat_main.py --dataset databaker
 ```
