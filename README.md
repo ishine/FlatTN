@@ -54,8 +54,9 @@ python /V1/flat_main.py --dataset databaker
 Our proposed rule base are saved in a python file: 
 `/V1/add_rule.py`
 
+## Flat-Lattice-Transformer参考链接
 
-
+https://github.com/LeeSureman/Flat-Lattice-Transformer
 
 
 
