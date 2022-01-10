@@ -29,7 +29,7 @@ The raw dataset are in jsonl format as following:
 Preprocessed data are saved at : 
 `dataset/cleaned_dataset_by_myself/shuffled_BMES`
 The proposed data are in BMES format at following:
-![image](https://user-images.githubusercontent.com/38463365/148811625-c6b0179b-d97b-4786-b0db-056cd4bbf82e.png)
+![image](https://user-images.githubusercontent.com/38463365/148811758-49f739b5-7e46-4870-b50c-5cdf7e5d0e3d.png)
 
 We divided data into `train` 、`dev` 、`test` by 8:1:1.
 
