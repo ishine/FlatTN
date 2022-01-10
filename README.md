@@ -23,15 +23,15 @@ To browse the Chinese version of the download page, please click https://www.dat
 The raw dataset in jsonl format are saved at : 
 `dataset/cleaned_dataset_by_myself/CN_TN_epoch-01-28645_2.jsonl`
 
-The raw dataset are in jsonl format as following:
+The raw dataset are in jsonl format as follows:
 ![image](https://user-images.githubusercontent.com/38463365/148810299-0dc3acb9-545a-480f-b795-65e034fae29d.png)
 
 Preprocessed data are saved at : 
 `dataset/cleaned_dataset_by_myself/shuffled_BMES`
 
-The proposed data are in BMES format at following:
+The proposed data are in BMES format as follows:
 
-![image](https://user-images.githubusercontent.com/38463365/148811758-49f739b5-7e46-4870-b50c-5cdf7e5d0e3d.png)
+  ![image](https://user-images.githubusercontent.com/38463365/148811758-49f739b5-7e46-4870-b50c-5cdf7e5d0e3d.png)
 
 We divided data into `train` 、`dev` 、`test` by 8:1:1.
 
