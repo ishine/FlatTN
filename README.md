@@ -22,18 +22,22 @@ To browse the Chinese version of the download page, please click https://www.dat
 
 The raw dataset in jsonl format are saved at : 
 `dataset/cleaned_dataset_by_myself/CN_TN_epoch-01-28645_2.jsonl`
+
 The raw dataset are in jsonl format as following:
 ![image](https://user-images.githubusercontent.com/38463365/148810299-0dc3acb9-545a-480f-b795-65e034fae29d.png)
 
 Preprocessed data are saved at : 
 `dataset/cleaned_dataset_by_myself/shuffled_BMES`
 The proposed data are in BMES format at following:
-![image](https://user-images.githubusercontent.com/38463365/148809934-d6181760-5cee-4e78-8333-d229d6bec5a1.png)
+![image](https://user-images.githubusercontent.com/38463365/148811625-c6b0179b-d97b-4786-b0db-056cd4bbf82e.png)
+
 We divided data into `train` 、`dev` 、`test` by 8:1:1.
+
 You can also run our code to prepocess and divide the raw dataset again
 '''
 python /dataset/cleaned_dataset_by_myself/get_json.py
 '''
+
 You can run the following shell to see the number of all NSW categories
 '''
 python /dataset/cleaned_dataset_by_myself/sep_data.py
