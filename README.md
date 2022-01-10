@@ -30,19 +30,20 @@ Preprocessed data are saved at :
 `dataset/cleaned_dataset_by_myself/shuffled_BMES`
 
 The proposed data are in BMES format at following:
+
 ![image](https://user-images.githubusercontent.com/38463365/148811758-49f739b5-7e46-4870-b50c-5cdf7e5d0e3d.png)
 
 We divided data into `train` 、`dev` 、`test` by 8:1:1.
 
 You can also run our code to prepocess and divide the raw dataset again
-'''
+```
 python /dataset/cleaned_dataset_by_myself/get_json.py
-'''
+```
 
-You can run the following shell to see the number of all NSW categories
-'''
+You can run the following shell to see the number of all NSW categories 
+```
 python /dataset/cleaned_dataset_by_myself/sep_data.py
-'''
+```
 
 
 # Training
